@@ -1,0 +1,231 @@
+.form-control {
+    width: 300%;
+    height: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-size: large;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #800000;
+}
+
+.btn-outline-success {
+    color: black;
+    border-color: #ced4da;
+}
+
+.btn-outline-success:hover {
+    background-color: #800000;
+    border-color: #800000;
+}
+
+.propaganda1 {
+    margin-bottom: 2%;
+}
+
+#carouselExampleControls {
+    margin-bottom: 2%;
+}
+
+div.img1 {
+    float: left;
+    width: 33%;
+    margin-right: 3%;
+    border: 2px solid white;
+    border: 2px solid white;
+}
+
+.img1:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img2 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    border: 2px solid white;
+}
+
+.img2:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img3 {
+    float: left;
+    width: 23%;
+    margin-bottom: 3%;
+    height: 40%;
+    border: 2px solid white;
+}
+
+.img3:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img4 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img4:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img5 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    border: 2px solid white;
+}
+
+.img5:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img6 {
+    float: left;
+    width: 40%;
+    height: 40%;
+    margin-top: 3%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img6:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img7 {
+    float: left;
+    width: 40%;
+    height: 40%;
+    margin-top: 3%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img7:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img8 {
+    float: left;
+    width: 40%;
+    height: 40%;
+    margin-top: 3%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img8:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img9 {
+    float: left;
+    width: 40%;
+    height: 40%;
+    margin-top: 3%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img9:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img10 {
+    float: left;
+    width: 30%;
+    height: 100%;
+    margin-top: 3%;
+    border: 2px solid white;
+}
+
+.img10:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img11 {
+    float: left;
+    width: 33%;
+    height: 100%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img11:hover {
+    border: 2px solid #000000;
+    height: 95%;
+}
+
+div.img12 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    border: 2px solid white;
+}
+
+.img12:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img13 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    margin-bottom: 3%;
+    border: 2px solid white;
+}
+
+.img13:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img14 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    margin-right: 3%;
+    border: 2px solid white;
+}
+
+.img14:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
+
+div.img15 {
+    float: left;
+    width: 23%;
+    height: 40%;
+    border: 2px solid white;
+}
+
+.img15:hover {
+    border: 2px solid #000000;
+    height: 100%;
+}
